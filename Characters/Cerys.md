@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Cerys Lauren Helios                                               |
+| **Full Name**          | [[Cerys]] Lauren Helios                                               |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Nicknames**          | Sunflower ([[Vladoryn]])<br>My Child ([[Grandyne]])<br>Kit (Disguise) |
 | **Status**             | Undead                                                            |
-| **Species**            | Elf (former)<br>Vampire                                           |
+| **[[Species]]**            | Elf (former)<br>Vampire                                           |
 | **Birthday**           | May 3                                                             |
 | **Age**                | 80                                                                |
 | **Pronouns**           | Any/All                                                           |
@@ -16,13 +16,13 @@
 | **Living Relatives**   | [[Jarien Orion]]                                                  |
 ## Relationships:
 ### The Divine
-[[Solis]] - *They believed, with their full heart, in the Sun Lord, Solis.*
+[[Solis]] - *They believed, with their full heart, in the Sun Lord, [[Solis]].*
 [[Luneir]] - *While they did find solace in the Moon Lord as well, the Sun Lord had been a source of comfort for their entire life.*
 ### People
 [[Vladoryn]] - Husband
 	*“I’m nothing without him… I should just go and die.”*
 [[Perseus]] - Reluctant admiration, strained
-	*They were under the assumption that Perseus had deemed them unholy. Well, they didn’t particularly like Perseus to begin with, as they reminded them of what they’d lost.*
+	*They were under the assumption that [[Perseus]] had deemed them unholy. Well, they didn’t particularly like [[Perseus]] to begin with, as they reminded them of what they’d lost.*
 [[Alfoy]] - Best friends, deep concern
 	(QUOTE NEEDED) 
 [[Chayienne]] - Distant admiration
@@ -39,8 +39,8 @@
 ## History:
 
 ## Trivia:
-* Cerys died on July 20th. They were 34.
-* Cerys has poor alcohol tolerance.
-* Cerys struggles with self-hatred regarding their vampirehood.
-* Cerys reads a passage from *Tales of the Sun and Moon* daily.
-* Cerys drinks tea to self-regulate.
+* [[Cerys]] died on July 20th. They were 34.
+* [[Cerys]] has poor alcohol tolerance.
+* [[Cerys]] struggles with self-hatred regarding their vampirehood.
+* [[Cerys]] reads a passage from *Tales of the Sun and Moon* daily.
+* [[Cerys]] drinks tea to self-regulate.

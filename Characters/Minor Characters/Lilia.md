@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Lilia Frederick Orion                             |
+| **Full Name**          | [[Lilia]] Frederick Orion                             |
 | ---------------------- | ------------------------------------------------- |
 | **Nicknames**          | ???                                               |
 | **Status**             | Deceased                                          |
-| **Species**            | ???                                               |
+| **[[Species]]**            | ???                                               |
 | **Birthday**           | ???                                               |
 | **Age**                | 15                                                |
 | **Pronouns**           | She/Her                                           |
@@ -17,4 +17,4 @@
 ## Relationships:
 ## Career:
 ## Trivia:
-* Lilia's favourite colour was pink.
+* [[Lilia]]'s favourite colour was pink.

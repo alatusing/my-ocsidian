@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Chayienne Mary Alicost                                                                                                                                                          |
+| **Full Name**          | [[Chayienne]] Mary Alicost                                                                                                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nicknames**          | Chai ([[Chea]])                                                                                                                                                                 |
 | **Status**             | Alive                                                                                                                                                                           |
-| **Species**            | Fox-Human                                                                                                                                                                       |
+| **[[Species]]**            | Fox-Human                                                                                                                                                                       |
 | **Birthday**           | March 24                                                                                                                                                                        |
 | **Age**                | 27                                                                                                                                                                              |
 | **Pronouns**           | She/Her                                                                                                                                                                         |
@@ -30,4 +30,4 @@
 ### Pets/Animals
 ## History:
 ## Trivia:
-* Chayienne can be rather shallow and struggles with ditching people she finds boring
+* [[Chayienne]] can be rather shallow and struggles with ditching people she finds boring

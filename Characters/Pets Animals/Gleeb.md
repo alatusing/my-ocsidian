@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Name**       | Gleeb Glorp Glurpus III |
+| **Name**       | [[Gleeb]] Glorp Glurpus III |
 | -------------- | ----------------------- |
 | **Nicknames**  | Gleeby [[Sitar]]        |
 | **Status**     | Alive                   |
-| **Species**    | Cat-Alien               |
+| **[[Species]]**    | Cat-Alien               |
 | **Birthday**   | June 18                 |
 | **Age**        | ??? (Immortal)          |
 | **Abilities**  | Night Vision            |

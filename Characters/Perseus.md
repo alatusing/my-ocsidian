@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Perseus Orion Str.                                                                                |
+| **Full Name**          | [[Perseus]] Orion Str.                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------------------- |
 | **Nicknames**          | Perse ([[Alfoy]])                                                                                 |
 | **Status**             | Alive                                                                                             |
-| **Species**            | [[Angel]] (Limited)                                                                               |
+| **[[Species]]**            | [[Angel]] (Limited)                                                                               |
 | **Birthday**           | August 27                                                                                         |
 | **Age**                | ???                                                                                               |
 | **Pronouns**           | All                                                                                               |
@@ -33,11 +33,11 @@
 ### Pets/Animals
 ## History:
 ## Trivia:
-* Perseus unwinds with various art mediums, including knitting and painting. They tend to use it as escapism as well.
-* Perseus struggles with comparing themself to others.
-* Perseus struggles with the notion of swearing.
-* Perseus still struggles with not deeming people pure or impure
-* Perseus wears a watch that tracks their heart rate and location at [[Alfoy]]'s request. The two agreed to call each other if something happens.
-* Perseus hates being compared to birds.
-* Perseus' favourite tea is honey lemon with two sugars.
-* Perseus was gifted a plum-coloured mug with swirls of purples and reds. The gift was from [[Alfoy]], who picked it out at a farmer's market.
+* [[Perseus]] unwinds with various art mediums, including knitting and painting. They tend to use it as escapism as well.
+* [[Perseus]] struggles with comparing themself to others.
+* [[Perseus]] struggles with the notion of swearing.
+* [[Perseus]] still struggles with not deeming people pure or impure
+* [[Perseus]] wears a watch that tracks their heart rate and location at [[Alfoy]]'s request. The two agreed to call each other if something happens.
+* [[Perseus]] hates being compared to birds.
+* [[Perseus]]' favourite tea is honey lemon with two sugars.
+* [[Perseus]] was gifted a plum-coloured mug with swirls of purples and reds. The gift was from [[Alfoy]], who picked it out at a farmer's market.

@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | God Sitar                                                                                                                                                                                                                                        |
+| **Full Name**          | God [[Sitar]]                                                                                                                                                                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Nicknames**          | God of Gods                                                                                                                                                                                                                                      |
 | **Status**             | Alive                                                                                                                                                                                                                                            |
-| **Species**            | Creator                                                                                                                                                                                                                                          |
+| **[[Species]]**            | Creator                                                                                                                                                                                                                                          |
 | **Birthday**           | November 6                                                                                                                                                                                                                                       |
 | **Age**                | ထ                                                                                                                                                                                                                                                |
 | **Pronouns**           | **Capitalized** She/They                                                                                                                                                                                                                         |
@@ -22,4 +22,4 @@
 [[Gleeb]] - (QUOTE NEEDED)
 ## History:
 ## Trivia:
-* Despite denying Her angels of it, Sitar has been with many humans.
+* Despite denying Her angels of it, [[Sitar]] has been with many humans.

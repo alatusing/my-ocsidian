@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Chea Ally Alicost<br>*Formerly Chea Ally Xenarby* |
+| **Full Name**          | [[Chea]] Ally Alicost<br>*Formerly [[Chea]] Ally Xenarby* |
 | ---------------------- | ------------------------------------------------- |
 | **Nicknames**          |                                                   |
 | **Status**             | Alive                                             |
-| **Species**            | Human                                             |
+| **[[Species]]**            | Human                                             |
 | **Birthday**           | May 5                                             |
 | **Age**                | 21                                                |
 | **Pronouns**           | She/They                                          |
@@ -30,14 +30,14 @@
 ### Pets/Animals
 ## History:
 ### Past Life
-In her past life, Chea was born to a family who were deeply in debt from reckless gambling. They were forced to give up their first born to the military of the kingdom they lived in.
-Chea was the most promising member of the military academy, applying herself fully and having to be forced to rest. She was assigned to personally guard [[Chayienne]] after her coronation.
-Chea would carry:
+In her past life, [[Chea]] was born to a family who were deeply in debt from reckless gambling. They were forced to give up their first born to the military of the kingdom they lived in.
+[[Chea]] was the most promising member of the military academy, applying herself fully and having to be forced to rest. She was assigned to personally guard [[Chayienne]] after her coronation.
+[[Chea]] would carry:
 * A horn on her belt, designed for calling for backup
 * A sword, engraved with protection sigils from the local church
 * Limited first-aid supplies
 ### Student
-Chea had began a program at [[(SCHOOL_NAME)]] for an arts degree, and had a job offer for a museum who offered to help cover tuition and materials. This caused her family to kick her out.
+[[Chea]] had began a program at [[(SCHOOL_NAME)]] for an arts degree, and had a job offer for a museum who offered to help cover tuition and materials. This caused her family to kick her out.
 ## Trivia:
-* Chea struggles with receiving praise.
-* Chea smokes.
+* [[Chea]] struggles with receiving praise.
+* [[Chea]] smokes.
