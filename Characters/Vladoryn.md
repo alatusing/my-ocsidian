@@ -10,7 +10,7 @@
 | **Pronouns**           | All except it/its                                                                             |
 | **Orientation**        | Nonbinary<br>Bisexual                                                                         |
 | **Marital Status**     | Married ([[Cerys]])                                                                           |
-| **Abilities**          | Mild shapeshifting                                                                            |
+| **Abilities**          | Mild shapeshifting<br>Barbarian Rage (see Dungeons and Dragons)                               |
 | **Weaknesses**         | [[Dragon Decay]] - Reduced mobility, joint pain, painful shedding scales<br>Commitment issues |
 | **Deceased Relatives** | Unknown Mother<br>Unknown Father                                                              |
 | **Living Relatives**   | Brother - George Smy'ith                                                                      |

@@ -1,0 +1,1 @@
+The Church of the Time Lords is the title of the people who follow either of the Time Lords: [[Luneir]] or [[Solis]].

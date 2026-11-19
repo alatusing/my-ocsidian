@@ -17,9 +17,17 @@
 
 ## Relationships:
 ### The Divine
+[[Sitar]] - Intense hatred.
+	(QUOTE NEEDED)
 ### People
+[[Perseus]] - Deep regret and guilt.
+	(QUOTE NEEDED)
+[[RAYM_PARTNER]] - Savior.
+	(QUOTE NEEDED)
 ### Pets/Animals
 ## History:
 ### Banishment
-*Raym, their angelic superior, the one who taught them everything they know, was also banished for his love of a human. Perseus should have known something was up. He suddenly grew distant after a meeting with Sitar, then a couple weeks later he was gone. Perseus was suspicious at the time, but was convinced that it was normal and that they shouldn’t worry.*
+Raym had met [[RAYM_PARTNER]] during one of their guardian shifts on Perae, when they were disguised as a human. Raym found themself falling in love with her, and after a small crisis, confessed everything to their angelic therapist. The therapist revealed they were a mandated reporter, and an incident report was filed.
+Two weeks later, Raym is called into a meeting with [[Sitar]] Herself. They are informed that they will be banished for the relationship, but the process was lengthy. She insisted that they don't let anyone find out, at the very least not until the process was over. The process took two weeks.
+After their banishment, Raym isolated themself completely from [[Perseus]]. They live on with shame, in an unknown part of Perae with [[RAYM_PARTNER]], counting down the days until it was most likely safe to reach out to their "younger sibling" again.
 ## Trivia:
