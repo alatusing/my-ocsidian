@@ -1,19 +1,19 @@
 ## Basic Information
 
-| **Full Name**          | [[Vladoryn]]	Loriel Helios<br>*Formerly [[Vladoryn]] Loriel Smy'ith*                          |
-| ---------------------- | --------------------------------------------------------------------------------------------- |
-| **Nicknames**          | Snapdragon ([[Cerys]])<br>12436723                                                            |
-| **Status**             | Alive                                                                                         |
-| Species                | [[Dragon]]                                                                                    |
-| **Birthday**           | August 2                                                                                      |
-| **Age**                | 79                                                                                            |
-| **Pronouns**           | All except it/its                                                                             |
-| **Orientation**        | Nonbinary<br>Bisexual                                                                         |
-| **Marital Status**     | Married ([[Cerys]])                                                                           |
-| **Abilities**          | Mild shapeshifting<br>Barbarian Rage (see Dungeons and Dragons)                               |
-| **Weaknesses**         | [[Dragon Decay]] - Reduced mobility, joint pain, painful shedding scales<br>Commitment issues |
-| **Deceased Relatives** | Unknown Mother<br>Unknown Father                                                              |
-| **Living Relatives**   | Brother - George Smy'ith                                                                      |
+| **Full Name**          | [[Vladoryn]]	Loriel Helios<br>*Formerly [[Vladoryn]] Loriel Smy'ith* |
+| ---------------------- | -------------------------------------------------------------------- |
+| **Nicknames**          | Snapdragon ([[Cerys]])<br>12436723                                   |
+| **Status**             | Alive                                                                |
+| Species                | [[Dragon]]                                                           |
+| **Birthday**           | August 2                                                             |
+| **Age**                | 79                                                                   |
+| **Pronouns**           | All except it/its                                                    |
+| **Orientation**        | Nonbinary<br>Bisexual                                                |
+| **Marital Status**     | Married ([[Cerys]])                                                  |
+| **Abilities**          | Mild shapeshifting<br>Barbarian Rage (see Dungeons and Dragons)      |
+| **Weaknesses**         | [[Dragon Decay]]<br>Commitment issues                                |
+| **Deceased Relatives** | Unknown Mother<br>Unknown Father                                     |
+| **Living Relatives**   | Brother - George Smy'ith                                             |
 ## Relationships:
 ### The Divine
 ### People

@@ -6,7 +6,7 @@
       {
         "id": "70b38a153da09476",
         "type": "tabs",
-        "dimension": 45.496997998665776,
+        "dimension": 35.060449050086355,
         "children": [
           {
             "id": "05090b657a404f4b",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Species.md",
+                "file": "Misc/Dragon Decay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Species"
+              "title": "Dragon Decay"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "25c26496a5a4be1d",
         "type": "tabs",
-        "dimension": 54.50300200133422,
+        "dimension": 64.93955094991365,
         "children": [
           {
             "id": "4503e477016f45f6",
@@ -196,16 +196,16 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "05090b657a404f4b",
   "lastOpenFiles": [
+    "Characters/Vladoryn.md",
+    "Misc/Dragon Decay.md",
+    "Misc",
     "Characters/Minor Characters/Grandyne.md",
     "Templates/Species.md",
     "Characters/The Divine/Conleth.md",
@@ -220,7 +220,6 @@
     "Characters/Cerys.md",
     "Characters/Minor Characters/Raym.md",
     "Characters/Chea.md",
-    "Characters/Vladoryn.md",
     "Characters/Chayienne.md",
     "Characters/Alfoy.md",
     "Templates/Pet Profile.md",
@@ -240,9 +239,6 @@
     "Characters",
     "Outline.pdf",
     "Outline.md",
-    "Untitled 1.md",
-    "Writing/01 - A New Roommate.md",
-    "Writing/0 - Prologue.md",
-    "Writing"
+    "Untitled 1.md"
   ]
 }
