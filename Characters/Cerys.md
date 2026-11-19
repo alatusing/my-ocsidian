@@ -2,7 +2,7 @@
 
 | **Full Name**          | Cerys Lauren Helios                                               |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Nicknames**          | Sunflower ([[Vladoryn]])<br>My Child ([[Syre]])<br>Kit (Disguise) |
+| **Nicknames**          | Sunflower ([[Vladoryn]])<br>My Child ([[Grandyne]])<br>Kit (Disguise) |
 | **Status**             | Undead                                                            |
 | **Species**            | Elf (former)<br>Vampire                                           |
 | **Birthday**           | May 3                                                             |
