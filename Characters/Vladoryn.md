@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | [[Vladoryn]]	Loriel Helios<br>*Formerly [[Vladoryn]] Loriel Smy'ith*                                  |
+| **Full Name**          | [[Vladoryn]]	Loriel Helios<br>*Formerly [[Vladoryn]] Loriel Smy'ith*                          |
 | ---------------------- | --------------------------------------------------------------------------------------------- |
 | **Nicknames**          | Snapdragon ([[Cerys]])<br>12436723                                                            |
 | **Status**             | Alive                                                                                         |
-| **[[Species]]**            | [[Dragon]]                                                                                    |
+| Species                | [[Dragon]]                                                                                    |
 | **Birthday**           | August 2                                                                                      |
 | **Age**                | 79                                                                                            |
 | **Pronouns**           | All except it/its                                                                             |

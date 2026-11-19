@@ -1,19 +1,19 @@
 ## Basic Information
 
 | **Full Name**          | [[Cerys]] Lauren Helios                                               |
-| ---------------------- | ----------------------------------------------------------------- |
+| ---------------------- | --------------------------------------------------------------------- |
 | **Nicknames**          | Sunflower ([[Vladoryn]])<br>My Child ([[Grandyne]])<br>Kit (Disguise) |
-| **Status**             | Undead                                                            |
-| **[[Species]]**            | Elf (former)<br>Vampire                                           |
-| **Birthday**           | May 3                                                             |
-| **Age**                | 80                                                                |
-| **Pronouns**           | Any/All                                                           |
-| **Orientation**        | Agender<br>Pansexual                                              |
-| **Marital Status**     | Married ([[Vladoryn]])                                            |
-| **Abilities**          | Immortality (without aging)<br>Bat form                           |
-| **Weaknesses**         | Garlic<br>Spilled rice<br>Closed doors<br>Sunlight<br>Mirrors     |
-| **Deceased Relatives** | Unknown Mother<br>Unknown Father                                  |
-| **Living Relatives**   | [[Jarien Orion]]                                                  |
+| **Status**             | Undead                                                                |
+| Species                | Elf (former)<br>Vampire                                               |
+| **Birthday**           | May 3                                                                 |
+| **Age**                | 80                                                                    |
+| **Pronouns**           | Any/All                                                               |
+| **Orientation**        | Agender<br>Pansexual                                                  |
+| **Marital Status**     | Married ([[Vladoryn]])                                                |
+| **Abilities**          | Immortality (without aging)<br>Bat form                               |
+| **Weaknesses**         | Garlic<br>Spilled rice<br>Closed doors<br>Sunlight<br>Mirrors         |
+| **Deceased Relatives** | Unknown Mother<br>Unknown Father                                      |
+| **Living Relatives**   | [[Jarien Orion]]                                                      |
 ## Relationships:
 ### The Divine
 [[Solis]] - *They believed, with their full heart, in the Sun Lord, [[Solis]].*

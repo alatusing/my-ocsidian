@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | [[Raym]] Slendus                                                    |
+| **Full Name**          | [[Raym]] Slendus                                                |
 | ---------------------- | --------------------------------------------------------------- |
 | **Nicknames**          | Rayie ([[RAYM_PARTNER]])                                        |
 | **Status**             | Alive                                                           |
-| **[[Species]]**            | [[Angel]], Limited                                              |
+| Species                | [[Angel]], Limited                                              |
 | **Birthday**           | February 16th                                                   |
 | **Age**                | ??? (Older than [[Perseus]])                                    |
 | **Pronouns**           | Any                                                             |

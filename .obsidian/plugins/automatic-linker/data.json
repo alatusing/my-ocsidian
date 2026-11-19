@@ -17,7 +17,9 @@
   "matchSentenceCase": true,
   "replaceUrlWithTitle": true,
   "replaceUrlWithTitleIgnoreDomains": [],
-  "excludeDirsFromAutoLinking": [],
+  "excludeDirsFromAutoLinking": [
+    "Templates"
+  ],
   "preventSelfLinking": false,
   "removeAliasInDirs": [],
   "ignoreMarkdownTables": false

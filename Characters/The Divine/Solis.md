@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | [[Solis]]                                                          |
+| **Full Name**          | [[Solis]]                                                      |
 | ---------------------- | -------------------------------------------------------------- |
 | **Nicknames**          | Soul ([[Luneir]])                                              |
 | **Status**             | Alive                                                          |
-| **[[Species]]**            | Lord of Time - Sun Lord                                        |
+| Species                | Lord of Time - Sun Lord                                        |
 | **Birthday**           | April 16                                                       |
 | **Age**                | ထ                                                              |
 | **Pronouns**           | He/They/She                                                    |

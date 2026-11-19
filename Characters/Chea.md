@@ -1,19 +1,19 @@
 ## Basic Information
 
 | **Full Name**          | [[Chea]] Ally Alicost<br>*Formerly [[Chea]] Ally Xenarby* |
-| ---------------------- | ------------------------------------------------- |
-| **Nicknames**          |                                                   |
-| **Status**             | Alive                                             |
-| **[[Species]]**            | Human                                             |
-| **Birthday**           | May 5                                             |
-| **Age**                | 21                                                |
-| **Pronouns**           | She/They                                          |
-| **Orientation**        | Nonbinary<br>Pansexual                            |
-| **Marital Status**     | Married ([[Chayienne]])                           |
-| **Abilities**          | Painting, sculpting                               |
-| **Weaknesses**         | Iron deficiency                                   |
-| **Deceased Relatives** | Mother - Jolie Xenarby                            |
-| **Living Relatives**   | Father - Lionel Xenarby (Estranged)               |
+| ---------------------- | --------------------------------------------------------- |
+| **Nicknames**          |                                                           |
+| **Status**             | Alive                                                     |
+| Species                | Human                                                     |
+| **Birthday**           | May 5                                                     |
+| **Age**                | 21                                                        |
+| **Pronouns**           | She/They                                                  |
+| **Orientation**        | Nonbinary<br>Pansexual                                    |
+| **Marital Status**     | Married ([[Chayienne]])                                   |
+| **Abilities**          | Painting, sculpting                                       |
+| **Weaknesses**         | Iron deficiency                                           |
+| **Deceased Relatives** | Mother - Jolie Xenarby                                    |
+| **Living Relatives**   | Father - Lionel Xenarby (Estranged)                       |
 ## Relationships:
 ### The Divine
 ### People

@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | [[Perseus]] Orion Str.                                                                                |
+| **Full Name**          | [[Perseus]] Orion Str.                                                                            |
 | ---------------------- | ------------------------------------------------------------------------------------------------- |
 | **Nicknames**          | Perse ([[Alfoy]])                                                                                 |
 | **Status**             | Alive                                                                                             |
-| **[[Species]]**            | [[Angel]] (Limited)                                                                               |
+| Species                | [[Angel]] (Limited)                                                                               |
 | **Birthday**           | August 27                                                                                         |
 | **Age**                | ???                                                                                               |
 | **Pronouns**           | All                                                                                               |

@@ -4,7 +4,7 @@
 | ---------------------- | --- |
 | **Nicknames**          |     |
 | **Status**             |     |
-| **[[Species]]**            |     |
+| Species                |     |
 | **Birthday**           |     |
 | **Age**                |     |
 | **Pronouns**           |     |

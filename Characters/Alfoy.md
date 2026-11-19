@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | [[Alfoy]] Carrie Orion                                                            |
+| **Full Name**          | [[Alfoy]] Carrie Orion                                                        |
 | ---------------------- | ----------------------------------------------------------------------------- |
 | **Nicknames**          | Alfie ([[Perseus]])                                                           |
 | **Status**             | Alive                                                                         |
-| **[[Species]]**            | ???                                                                           |
+| Species                | ???                                                                           |
 | **Birthday**           | August 27                                                                     |
 | **Age**                | ???                                                                           |
 | **Pronouns**           | He/Him                                                                        |

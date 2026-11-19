@@ -4,7 +4,7 @@
 | ---------------------- | --------------------------------------- |
 | **Nicknames**          | Syre                                    |
 | **Status**             | Deceased                                |
-| **[[Species]]**        | Vampire                                 |
+| Species                | Vampire                                 |
 | **Birthday**           | ???                                     |
 | **Age**                | 104                                     |
 | **Pronouns**           | He/Any                                  |

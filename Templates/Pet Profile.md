@@ -1,14 +1,14 @@
 ## Basic Information
 
-| **Name**               |     |
-| ---------------------- | --- |
-| **Nicknames**          |     |
-| **Status**             |     |
-| **[[Species]]**            |     |
-| **Birthday**           |     |
-| **Age**                |     |
-| **Abilities**          |     |
-| **Weaknesses**         |     |
+| **Name**       |     |
+| -------------- | --- |
+| **Nicknames**  |     |
+| **Status**     |     |
+| Species        |     |
+| **Birthday**   |     |
+| **Age**        |     |
+| **Abilities**  |     |
+| **Weaknesses** |     |
 
 
 ## Relationships:
