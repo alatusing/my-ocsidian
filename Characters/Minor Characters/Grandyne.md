@@ -32,6 +32,6 @@
 At just four years old, [[Reytha]] loses her mother. Her mother died to a tragic poisoning incident, and poor [[Reytha]] wasn't long after. This loss crushed [[Grandyne]], and caused him to fall into delusion. He began reliving all the times [[Reytha]] had asked him to give her a sibling, and began searching for a reliable candidate.
 ### Manipulation of Cerys
 [[Grandyne]] had searched for several years until he found [[Cerys]], who he deemed to fit his requirements. [[Grandyne]] kidnapped them, brought them to his castle then turned them into a vampire.
-Before they woke up, [[Grandyne]] reached out to a local blood bank that provides for vampires, and made a deal with them to import enough for 2 vampires once a week. 
+Before they woke up, [[Grandyne]] reached out to a local blood bank that provides for vampires, and made a deal with them to import enough for 2 vampires once a week. [[Grandyne]] then used various connections he had made over the years through casual dating to get his hands on mild sedatives, designed to keep [[Cerys]] obedient.
 ## Trivia:
 * [[Grandyne]] tends to flirt with anyone he finds interesting or attractive, mostly men. This does not always indicate romantic or sexual interest.
