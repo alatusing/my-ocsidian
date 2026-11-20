@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Dragon Decay.md",
+                "file": "Characters/Pets Animals/Beans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragon Decay"
+              "title": "Beans"
             }
           }
         ]
@@ -203,8 +203,13 @@
   },
   "active": "05090b657a404f4b",
   "lastOpenFiles": [
-    "Characters/Vladoryn.md",
+    "Pasted image 20261120094224.png",
+    "Characters/Pets Animals/Gleeb.md",
+    "Characters/Pets Animals/Beans.md",
+    "Templates/Pet Profile.md",
+    "Species/Angel.md",
     "Misc/Dragon Decay.md",
+    "Characters/Vladoryn.md",
     "Misc",
     "Characters/Minor Characters/Grandyne.md",
     "Templates/Species.md",
@@ -212,7 +217,6 @@
     "Characters/Minor Characters/Lilia.md",
     "Characters/Perseus.md",
     "Characters/The Divine/Luneir.md",
-    "Characters/Pets Animals/Gleeb.md",
     "Characters/The Divine/Sitar.md",
     "Characters/The Divine/Samulen.md",
     "Characters/The Divine/Solis.md",
@@ -222,9 +226,7 @@
     "Characters/Chea.md",
     "Characters/Chayienne.md",
     "Characters/Alfoy.md",
-    "Templates/Pet Profile.md",
     "Templates/Character Profile.md",
-    "Species/Angel.md",
     "Pasted image 20261118205023.png",
     "Characters/Pets Animals",
     "Characters/The Divine",
@@ -238,7 +240,6 @@
     "Characters/Minor Characters",
     "Characters",
     "Outline.pdf",
-    "Outline.md",
-    "Untitled 1.md"
+    "Outline.md"
   ]
 }

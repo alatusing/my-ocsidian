@@ -16,4 +16,6 @@
 ### People
 ### Pets/Animals
 ## History:
+
+## Appearance:
 ## Trivia:
