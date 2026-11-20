@@ -1,0 +1,26 @@
+{
+  "formatOnSave": true,
+  "showNotice": true,
+  "respectNewFileFolderPath": true,
+  "normalizeExistingWikilinks": true,
+  "includeAliases": true,
+  "proximityBasedLinking": true,
+  "ignoreDateFormats": true,
+  "ignoreHeadings": true,
+  "formatGitHubURLs": true,
+  "githubEnterpriseURLs": [],
+  "formatJiraURLs": true,
+  "jiraURLs": [],
+  "formatLinearURLs": false,
+  "debug": true,
+  "ignoreCase": true,
+  "matchSentenceCase": true,
+  "replaceUrlWithTitle": true,
+  "replaceUrlWithTitleIgnoreDomains": [],
+  "excludeDirsFromAutoLinking": [
+    "Templates"
+  ],
+  "preventSelfLinking": false,
+  "removeAliasInDirs": [],
+  "ignoreMarkdownTables": false
+}

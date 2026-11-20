@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Lord Samulen                                                           |
+| **Full Name**          | Lord [[Samulen]]                                                       |
 | ---------------------- | ---------------------------------------------------------------------- |
 | **Nicknames**          | Samsam ([[Conleth]])                                                   |
 | **Status**             | Alive                                                                  |
-| **Species**            | Lord of Water                                                          |
+| Species                | Lord of Water                                                          |
 | **Birthday**           | December 6                                                             |
 | **Age**                | ???                                                                    |
 | **Pronouns**           | He/Sea                                                                 |

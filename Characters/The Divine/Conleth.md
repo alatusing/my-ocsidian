@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | Lord Conleth                                           |
+| **Full Name**          | Lord [[Conleth]]                                       |
 | ---------------------- | ------------------------------------------------------ |
 | **Nicknames**          | Buoy ([[Samulen]])                                     |
 | **Status**             | Alive                                                  |
-| **Species**            | Lord of Flame                                          |
+| Species                | Lord of Flame                                          |
 | **Birthday**           | June 27                                                |
 | **Age**                | ???                                                    |
 | **Pronouns**           | He/It                                                  |

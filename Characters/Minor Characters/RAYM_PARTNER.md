@@ -1,10 +1,10 @@
 ## Basic Information
 
-| **Full Name**          | RAYM_PARTNER                                   |
+| **Full Name**          | [[RAYM_PARTNER]]                               |
 | ---------------------- | ---------------------------------------------- |
 | **Nicknames**          | ([[Raym]])                                     |
 | **Status**             | Alive                                          |
-| **Species**            | Human                                          |
+| Species                | Human                                          |
 | **Birthday**           | January 24th                                   |
 | **Age**                | 25                                             |
 | **Pronouns**           | She/He                                         |
