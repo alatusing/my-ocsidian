@@ -2,7 +2,7 @@
 
 | **Name**       | [[Gleeb]] Glorp Glurpus III |
 | -------------- | --------------------------- |
-| **Nicknames**  | Gleeby [[Sitar]]            |
+| **Nicknames**  | Gleeby ([[Sitar]])          |
 | **Status**     | Alive                       |
 | Species        | Cat-Alien                   |
 | **Birthday**   | June 18                     |

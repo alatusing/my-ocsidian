@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Pets Animals/Beans.md",
+                "file": "Templates/Pet Profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beans"
+              "title": "Pet Profile"
             }
           }
         ]
@@ -201,18 +201,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "05090b657a404f4b",
+  "active": "4503e477016f45f6",
   "lastOpenFiles": [
-    "Pasted image 20261120094224.png",
-    "Characters/Pets Animals/Gleeb.md",
-    "Characters/Pets Animals/Beans.md",
     "Templates/Pet Profile.md",
+    "Characters/Pets Animals/Bug.md",
+    "Images/Pasted image 20261120095718.png",
+    "Templates/Species.md",
+    "Characters/Pets Animals/Cordelia.md",
+    "Images/Pasted image 20261120094820.png",
+    "Templates/Character Profile.md",
+    "Characters/Pets Animals/Gleeb.md",
+    "Images",
+    "Characters/Pets Animals/Beans.md",
+    "Images/Pasted image 20261120094224.png",
     "Species/Angel.md",
     "Misc/Dragon Decay.md",
     "Characters/Vladoryn.md",
     "Misc",
     "Characters/Minor Characters/Grandyne.md",
-    "Templates/Species.md",
     "Characters/The Divine/Conleth.md",
     "Characters/Minor Characters/Lilia.md",
     "Characters/Perseus.md",
@@ -226,20 +232,16 @@
     "Characters/Chea.md",
     "Characters/Chayienne.md",
     "Characters/Alfoy.md",
-    "Templates/Character Profile.md",
     "Pasted image 20261118205023.png",
     "Characters/Pets Animals",
     "Characters/The Divine",
     "Places and Organizations/Church of the Time Lords.md",
     "Templates",
     "Places and Organizations",
-    "Places and Organizations/City of Angels.md",
     "Species",
     "Untitled.canvas",
     "Untitled.base",
     "Characters/Minor Characters",
-    "Characters",
-    "Outline.pdf",
-    "Outline.md"
+    "Characters"
   ]
 }

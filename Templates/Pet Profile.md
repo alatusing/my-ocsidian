@@ -7,10 +7,6 @@
 | Species        |     |
 | **Birthday**   |     |
 | **Age**        |     |
-| **Abilities**  |     |
-| **Weaknesses** |     |
-
-
 ## Relationships:
 ### The Divine
 ### People
@@ -18,4 +14,7 @@
 ## History:
 
 ## Appearance:
+
+|     | <br><br>[Image source](#) |
+| --- | ------------------------- |
 ## Trivia:
